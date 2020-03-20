@@ -129,7 +129,7 @@ You can replace the variant (`aws-k8s-1.15`) and architecture (`x86_64`) to look
 Supported variants and architectures are described in the [README](README.md).
 If you know a specific Bottlerocket version you'd like to use, you can replace `latest` with that version.
 
-You can also see all available parameters [through the web console](https://us-west-2.console.aws.amazon.com/systems-manager/parameters/#list_parameter_filters=Path:Recursive:%2Faws%2Fservice%2Fbottlerocket).
+You can also see all available parameters [through the web console](https://us-east-1.console.aws.amazon.com/systems-manager/parameters/#list_parameter_filters=Path:Recursive:%2Faws%2Fservice%2Fbottlerocket).
 
 ### Cluster setup
 
